@@ -1,19 +1,23 @@
 body {
-	background-image: url("images/background.jpeg");
+	background-image: url("images/background1.jpeg");
 	background-repeat: no-repeat;
 	background-size: auto, 100% 100%;
 }
 
-#main {
-	text-align: center;
-	padding-top: 12.5%;
+a.icon {
+	margin-right: .7cm;
 }
 
 #info {
 	font-family: "Lucida Console", monospace;
-	font-size: 2.3em;
-	font-weight: 400;
-	color: white;
-	letter-spacing: 4px;
+	font-size: 2.5em;
+	font-weight: bolder;
+	color: black;
+	margin: 7cm 0cm 0cm 10cm;
+	text-decoration-style: 
+}
+
+#navbar {
+	margin: 0cm 0cm 0cm 12cm;
 }
 
